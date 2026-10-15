@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Raw datasets
+data/raw/
+
+# Trained model files
+models/*.joblib
+
+# Generated results
+results/*.csv
+results/*.json
+
+# Local development
+.streamlit/secrets.toml
+.vscode/
