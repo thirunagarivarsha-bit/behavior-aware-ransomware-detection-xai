@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Behavior-Aware Early Ransomware Detection Using Explainable Machine Learning
 
 An explainable machine learning research prototype that classifies ransomware and goodware using Windows API call and behavioral signature features.
@@ -107,3 +108,7 @@ The project uses pre-extracted behavioral features and separate training and tes
 ## Disclaimer
 
 For defensive cybersecurity research and educational use only. Do not execute live malware as part of this project.
+=======
+# behavior-aware-ransomware-detection-xai
+Explainable machine learning for offline ransomware behavior classification using Windows API features.
+>>>>>>> origin/main
